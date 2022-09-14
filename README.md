@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sushant Neupane</h1>
 <h3 align="center">A passionate Android Developer from Nepal</h3>
 
+<br>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsushant09&label=Profile%20views&color=0e75b6&style=flat" alt="nsushant09" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nsushant09" target="blank"><img src="https://img.shields.io/twitter/follow/nsushant09?logo=twitter&style=for-the-badge" alt="nsushant09" /></a> </p>
 
 - 🔭 I’m currently intern at **F1Soft International.**
 
