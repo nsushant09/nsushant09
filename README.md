@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Neupane</h1>
 <h3 align="center">A passionate Android Developer from Nepal</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/aEwLTJvYxwo1L09oyP/200w.webp?cid=ecf05e47nachwa29bph7xarjwf28tus2n3lhleoqd5xdvhttps://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsushant09&label=Profile%20views&color=0e75b6&style=flat" alt="nsushant09" /> </p>
 
