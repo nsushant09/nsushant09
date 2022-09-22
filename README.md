@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/nsushant09](github.com/nsushant09)
 
-- 💬 Ask me about ** Clean Architecture, MVVM, RetroFit, RoomDB, Koin, Firebase, Figma**
+- 💬 Ask me about **Clean Architecture, MVVM, RetroFit, RoomDB, Koin, Firebase, Figma**
 
 - 📫 Reach me at **nsushant09@gmail.com**
 
