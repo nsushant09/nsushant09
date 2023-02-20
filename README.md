@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
-- 🔭 I’m currently intern at **F1Soft International.**
+- 🔭 Former **F1Soft International.** Android Engineer.
 
 - 🌱 I’m currently learning **Android Development, Machine Learning, DevOps, Ios Development**
 
