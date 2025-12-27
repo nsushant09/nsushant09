@@ -21,7 +21,7 @@
 - 💬 Ask me about **Clean Architecture, MVVM, Android, Swift, Docker, Spring Boot**
 - 📫 Reach me at **nsushant09@gmail.com**
 - 📄 Resume:  
-  [View Resume](https://drive.google.com/file/d/19vhreEo7lxA31rui3fHaRnzSpY8i5WAd/view?usp=sharing)
+  [View Resume](https://www.gsmotors.com.np/assets/Sushant_Resume.pdf)
 - ⚡ Outside work: **Football ⚽ | Bike riding 🏍️**
 
 ---
